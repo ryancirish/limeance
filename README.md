@@ -10,6 +10,7 @@ If you dont know git [learn](http://think-like-a-git.net/sections/graph-theory/s
 
 If you have specific topics you think we should research please let me know at any time and we can dedicate a branch or series of commits to the subject at hand.
 
+[Something](https://www.youtube.com/watch?v=ARrNYyJEnFI&t=3353s) to sink your teeth into as we get started (I will be annotating this first most likely and run through the series
 ## Roadmap
 
 Finance
