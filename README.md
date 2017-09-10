@@ -16,15 +16,21 @@ If you have specific topics you think we should research please let me know at a
 ## Roadmap
 
 - Finance
-This is very broad but at first I would like to start with valuation, and the history of our banking system and its structure. Also evaluating securities and learning about structure of futures, fx, options markets.
+ 
+  This is very broad but at first I would like to start with valuation, and the history of our banking system and its structure. Also evaluating securities and learning about structure of futures, fx, options markets.
 - Economics
-Fundementals, will mirror a curriculum maybe examine something exotic like LSE and see what theyre packing
+ 
+  Fundementals, will mirror a curriculum maybe examine something exotic like LSE and see what theyre packing
+
 - Trading
-private repo most likely
+  
+  private repo most likely
 - Cryptocurrency
-Whitepapers, analysis, stat analysis
+ 
+  Whitepapers, analysis, stat analysis
 - General / Psych
-cs resources, psych books, misc
+  
+  cs resources, psych books, misc
 
 Operations wise, in the short term I will create a slack for the group where we can discuss some of these projects...then automate archiving in repo via slack bot
 
