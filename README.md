@@ -1,9 +1,10 @@
 # Consortium
-
+## update: shkreli notes coming soon
 ### Rules:
-- dont fucking share the link
+- dont share the link, doing to make this private eventually
 
-How this works:
+for the non git ppl this is how this works:
+note: there is probably a better way to do this, if so please tell me but this seems simple enough and barebones (read: compatible) enough for easy data dumps and comms 
 Notes via git commit, links to various resources, books. Basically just a repository of knowledge and analysis.
 
 If you dont know git [learn](http://think-like-a-git.net/sections/graph-theory/seven-bridges-of-konigsberg.html), mix with [this](http://rogerdudler.github.io/git-guide/) to learn the commands. Once you get up to speed we will determine the commit strategy. (both will also be annotated and filed in the appropriate section)
